@@ -1,0 +1,8 @@
+GS=-Wall -g
+
+
+Project1_zrembisz_206: Project1_zrembisz_206.c
+        gcc -o Project1_zrembisz_206 Project1_zrembisz_206.c $(CFLAGS)
+clean:
+        rm -f Project1_zrembisz_206
+
