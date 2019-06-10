@@ -1,0 +1,81 @@
+Script started on Sat 23 Apr 2016 10:47:52 PM EDT
+[?1034hbash-4.1$ uname -a
+Linux zeus-1 2.6.32-573.22.1.el6.centos.plus.x86_64 #1 SMP Wed Mar 23 17:51:43 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+bash-4.1$ make
+gcc -g -o Project3_zrembisz_206 Project3_zrembisz_206.c set_zrembisz_206.c
+bash-4.1$ Project3_zrembisz_206 
+
+Would you like make a new pizza?!?!  (y/n)
+y
+Creating a new pizza now...
+
+Please enter your intial topping here:poop
+
+Please enter another topping to add ~OR~ hit 'enter' to stop and confirm current toppings:poee    potato
+top is holding: potato
+
+Please enter another topping to add ~OR~ hit 'enter' to stop and confirm current toppings:
+top is holding: 
+
+
+Would you like make a new pizza?!?!  (y/n)
+y
+Creating a new pizza now...
+
+Please enter your intial topping here:lemons
+
+Please enter another topping to add ~OR~ hit 'enter' to stop and confirm current toppings:lettuce
+top is holding: lettuce
+
+Please enter another topping to add ~OR~ hit 'enter' to stop and confirm current toppings:wraps
+top is holding: wraps
+
+Please enter another topping to add ~OR~ hit 'enter' to stop and confirm current toppings:grass
+top is holding: grass
+
+Please enter another topping to add ~OR~ hit 'enter' to stop and confirm current toppings:
+top is holding: 
+
+
+Would you like make a new pizza?!?!  (y/n)
+free
+
+Not a valid selection! Try again please!
+
+Would you like make a new pizza?!?!  (y/n)
+really
+
+Not a valid selection! Try again please!
+
+Would you like make a new pizza?!?!  (y/n)
+y
+Creating a new pizza now...
+
+Please enter your intial topping here:hello
+
+Please enter another topping to add ~OR~ hit 'enter' to stop and confirm current toppings:cheese
+top is holding: cheese
+
+Please enter another topping to add ~OR~ hit 'enter' to stop and confirm current toppings:peppers       green peppers
+top is holding: green peppers
+
+Please enter another topping to add ~OR~ hit 'enter' to stop and confirm current toppings:yellow oranges
+top is holding: yellow oranges
+
+Please enter another topping to add ~OR~ hit 'enter' to stop and confirm current toppings:
+top is holding: 
+
+
+Would you like make a new pizza?!?!  (y/n)
+n
+
+Your current list of orders are as follows:
+
+
+*We are experiencing server complications, pizza data corrupted...please try again later...*
+
+
+You are now exiting the program...bye, bye...
+bash-4.1$ exit
+
+Script done on Sat 23 Apr 2016 10:50:32 PM EDT
